@@ -10,12 +10,20 @@
 </script>
 
 <Hero
-	title="Elevate your business with thoughtful design"
-	subtitle="Solutions that enhance user experience, and improve visual communication."
-	imageSrc="https://www.unc.mn/image-placeholder.svg"
-	generating
+	title="Consistent day trading profits from Japanese stocks"
+	subtitle="Systematic algorithmic strategies that deliver results without coding skills. Risk only 10% while maintaining your core portfolio."
+	imageSrc="/generated/image-a-confident-japanese-professional-sits-a.webp"
+	centered={true}
 />
-<LogoScroller label="" generating />
+<LogoScroller
+	label="Trusted by traders worldwide"
+	logoUrls={[
+		'https://cdn.brandfetch.io/robinhood.com/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/interactivebrokers.com/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/alpaca.markets/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/tradestation.com/w/400/h/400/logo'
+	]}
+/>
 
 <Summary
 	generating
