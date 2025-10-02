@@ -96,5 +96,22 @@
 		}
 	]}
 />
-<AboutTeaser generating />
-<CallToAction generating />
+<AboutTeaser />
+<CallToAction
+	title="Start trading with confidence"
+	subtitle="No coding required"
+	description="Join successful Japanese retail traders who allocate 10% to systematic day trading while maintaining their core portfolios. Access proven strategies, rigorous backtesting, and reliable execution without algorithmic complexity."
+	imageSrc="/generated/image-a-confident-japanese-professional-trader.webp"
+	callsToAction={[
+		{
+			href: "/get-started",
+			label: "Start trading today",
+			variant: "primary"
+		},
+		{
+			href: "/contact",
+			label: "See strategy performance",
+			variant: "secondary"
+		}
+	]}
+/>

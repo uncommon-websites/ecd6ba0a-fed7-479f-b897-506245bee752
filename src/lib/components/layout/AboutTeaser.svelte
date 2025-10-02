@@ -21,9 +21,9 @@ A minimalist teaser for the about page.
 
 	// Data
 	const teamMember: TeamMember = {
-		name: "Alex Morgan",
-		role: "Founder & CEO",
-		image: "https://www.unc.mn/image-placeholder.svg"
+		name: "Kabugorithm Founder",
+		role: "Systematic Trader",
+		image: "/generated/image-a-japanese-professional-trader-sitting-a.webp"
 	};
 </script>
 
@@ -32,7 +32,7 @@ A minimalist teaser for the about page.
 		<div class="relative mx-auto grid max-w-2xl place-items-center gap-16">
 			<ScrollText
 				class="text-title1 text-center"
-				text={`"We're building the future of digital experiences, crafting innovative solutions that transform how people interact with technology in their everyday lives"`}
+				text={`"After reaching ¥100M through US equities, I discovered Japanese individual stocks offered untapped day trading potential. But emotional decisions kept costing me millions. Building Kabugorithm solved my own problem—now I risk just 10% systematically while maintaining my core portfolio. The hardest part wasn't the algorithm. It was trusting discipline over instinct."`}
 			/>
 
 			<!-- Team Member & CTA Section -->
